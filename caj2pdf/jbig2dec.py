@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 #  Copyright 2021 (c) Hin-Tak Leung <htl10@users.sourceforge.net>
 #  See The FreeType Project LICENSE for license terms.
 #
